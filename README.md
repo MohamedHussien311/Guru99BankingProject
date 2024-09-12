@@ -29,3 +29,5 @@ To solve this error follow these steps:
 3. An email will be sent to you contains the new login credintials
 4. Change the userID and password in the TestBase, LoginTest and ChangePasswordTest classes by the new userID and Password
 5. Re-run the script again and the error won`t be exist.
+# Contact me
+Email: mohamedelaraby7798@gmail.com
