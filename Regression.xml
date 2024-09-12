@@ -1,0 +1,16 @@
+<suite name = "Guru Banking System Regression suite">
+    <test name = "Regression test" preserve-order = "true">
+        <classes>
+            <class name = "Tests.LoginTest"/>
+            <class name = "Tests.NewCustomerTest"/>
+            <class name = "Tests.NewAccountTest"/>
+            <class name = "Tests.DepositTest"/>
+            <class name = "Tests.WithdrawTest"/>
+            <class name = "Tests.FundTransferTest"/>
+            <class name = "Tests.BalanceEnquiryTest"/>
+            <class name = "Tests.DeleteAccountTest"/>
+            <class name = "Tests.DeleteCustomerTest"/>
+            <class name = "Tests.ChangePasswordTest"/>
+        </classes>
+    </test>
+</suite>
